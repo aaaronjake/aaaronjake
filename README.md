@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 Hi I am Aaron Jake Alfante
 
 Drupal Org contibutions: [https://www.drupal.org/u/aaaronjake]([url](https://www.drupal.org/u/aaaronjake))
+
+Below is the projects I have contributed or workde on...
