@@ -13,4 +13,6 @@ Hi I am Aaron Jake Alfante
 
 Drupal Org contibutions: [https://www.drupal.org/u/aaaronjake]([url](https://www.drupal.org/u/aaaronjake))
 
+Daily Attendance Summary: []([url](https://docs.google.com/spreadsheets/d/1JQCC4uafENPum9QrXWRMD3oGWHvvG0sm98RaZPsa8N4/edit?gid=636260151#gid=636260151))
+
 Below is the projects I have contributed or worked on...
